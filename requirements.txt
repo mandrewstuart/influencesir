@@ -1,0 +1,6 @@
+numpy
+os
+requests
+spacy
+twython
+urllib
